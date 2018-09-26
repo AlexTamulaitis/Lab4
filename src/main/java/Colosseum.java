@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/4/">Lab 4 Description</a>
  */
+@SuppressWarnings("ALL")
 public class Colosseum {
     /**
      * The maximum number of hit points we will allow a Pokemon to start with.

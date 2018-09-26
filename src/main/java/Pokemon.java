@@ -16,6 +16,7 @@
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/4/">Lab 4 Description</a>
  */
+@SuppressWarnings("ALL")
 public class Pokemon {
 
     /**
